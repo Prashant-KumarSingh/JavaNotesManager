@@ -19,19 +19,3 @@ A simple Java-based console application to manage, manipulate, and analyze text-
   - Count and display the **total occurrences** of the word
 
 ---
-
-## 🛠️ Technologies Used
-
-- Java 8 or above
-- File I/O (`BufferedReader`, `BufferedWriter`, `FileReader`, `FileWriter`)
-- Command-line input via `Scanner`
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/java-notes-manager.git
-   cd java-notes-manager
